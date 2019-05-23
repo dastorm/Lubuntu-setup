@@ -2,7 +2,7 @@
 
 Just a place in which to throw my config files
 
-#File locations:
+# File locations:
 
 /home/dstellati/.config/openbox/lxqt-rc.xml
 
