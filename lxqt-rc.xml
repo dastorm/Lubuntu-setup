@@ -377,6 +377,87 @@
         <height>55%</height>
       </action>
     </keybind>
+    <!-- 
+        # numpad tiling
+    -->
+    <keybind key="A-KP_7">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>0</x>
+        <y>0</y>
+        <width>49%</width>
+        <height>49%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_8">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>0</x>
+        <y>0</y>
+        <width>100%</width>
+        <height>49%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_9">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>-0</x>
+        <y>0</y>
+        <width>49%</width>
+        <height>49%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_4">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>0</x>
+        <y>0</y>
+        <width>30%</width>
+        <height>100%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_5">
+      <action name="ToggleMaximize"/>
+    </keybind>
+    <keybind key="A-KP_6">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>-0</x>
+        <y>0</y>
+        <width>70%</width>
+        <height>100%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_1">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>0</x>
+        <y>-0</y>
+        <width>49%</width>
+        <height>49%</height>
+      </action>6
+    </keybind>
+    <keybind key="A-KP_2">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>0</x>
+        <y>-0</y>
+        <width>100%</width>
+        <height>49%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_3">
+      <action name="UnmaximizeFull"/>
+      <action name="MoveResizeTo">
+        <x>-0</x>
+        <y>-0</y>
+        <width>49%</width>
+        <height>49%</height>
+      </action>
+    </keybind>
+    <keybind key="A-KP_0">
+      <action name="ToggleShade"/>
+</keybind>
     <!--  Lubuntu specific : Keybindings -->
     <!-- Keybindings for running applications on Home + E -->
     <keybind key="A-e">
