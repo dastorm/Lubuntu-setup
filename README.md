@@ -13,3 +13,5 @@ Just a place in which to throw my config files
 /home/username/.config/compton.conf
 
 /home/username/.Xresources
+
+folders are to be placed in ~/.config/
