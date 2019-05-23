@@ -9,3 +9,5 @@ File locations:
 /usr/lib/sddm/sddm.conf.d/sddm.conf
 
 /home/dstellati/.config/compton.conf
+
+/home/dstellati/.Xresources
